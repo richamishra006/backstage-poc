@@ -4,8 +4,8 @@ metadata:
   name: backstage-poc
   description: An example of a Backstage application.
   # Example for optional annotations
-  annotations:
-    backstage.io/kubernetes-id: backstage-poc
+  # annotations:
+  #   backstage.io/kubernetes-id: backstage-poc
   #   backstage.io/techdocs-ref: dir:.
 spec:
   type: service
